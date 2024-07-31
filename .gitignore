@@ -1,0 +1,5 @@
+c4codata/settings/__pycache__/*
+c4codata/common/__pycache__/*
+c4codata/asynchronous/__pycache__/*
+c4codata/sync/__pycache__/*
+c4codata/test/*
